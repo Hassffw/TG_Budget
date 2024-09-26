@@ -1,4 +1,4 @@
-# Personal Budget Telegram Bot
+# Personal Budget Telegram app with Perplexity API
 
 This Telegram bot helps users manage their personal finances by tracking expenses, setting budgets, and providing financial advice.
 
