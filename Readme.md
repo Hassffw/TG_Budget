@@ -15,8 +15,8 @@ This Telegram bot helps users manage their personal finances by tracking expense
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/personal-budget-bot.git
-   cd personal-budget-bot
+   git clone git@github.com:Hassffw/TG_Budget.git
+   cd TG_Budget.git
    ```
 
 2. Install dependencies:
